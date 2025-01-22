@@ -1,0 +1,15 @@
+# Site settings
+title: "Holly & Ben"
+description: |
+  What happens in Vegas is legally binding
+owner: Holly & Ben
+first_published: 2020
+email: ben@3sq.re
+baseurl: ""
+url: "https://hollyben.wedding"
+social:
+  github: https://github.com/threesquared/hollyben.wedding
+  email: mailto:ben@3sq.re
+
+# Build settings
+markdown: kramdown
