@@ -107,6 +107,7 @@ $(document).ready(function(){
 		autoplay: true,
   	autoplaySpeed: 2000,
 		slidesToShow: 4,
-		slidesToScroll: 2
+		slidesToScroll: 2,
+		initialSlide: Math.floor(Math.random() * $('.slide > .image').length)
 	});
 });
